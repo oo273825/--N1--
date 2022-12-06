@@ -1,0 +1,9 @@
+{
+  "TOKEN": "",
+  "MAX_PLAYLIST_SIZE": 10000,
+  "PREFIX": ";;",
+  "PRUNING": true,
+  "LOCALE": "zh_tw",
+  "STAY_TIME": 300,
+  "DEFAULT_VOLUME": 100
+}
